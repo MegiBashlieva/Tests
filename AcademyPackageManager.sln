@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackageManager", "PackageMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackageManager.UnitTests", "PackageManager.Tests\PackageManager.UnitTests.csproj", "{849EC612-207E-404A-9C6E-727F61C4EF87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTest", "IntegrationTest\IntegrationTest.csproj", "{76744CAA-1B98-4718-921C-C77E0A7DFBEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{849EC612-207E-404A-9C6E-727F61C4EF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{849EC612-207E-404A-9C6E-727F61C4EF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{849EC612-207E-404A-9C6E-727F61C4EF87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76744CAA-1B98-4718-921C-C77E0A7DFBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76744CAA-1B98-4718-921C-C77E0A7DFBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76744CAA-1B98-4718-921C-C77E0A7DFBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76744CAA-1B98-4718-921C-C77E0A7DFBEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
